@@ -1,1 +1,0 @@
-https://github.com/eDanilovich-qa/rsschool-cv/cv
